@@ -1,0 +1,17 @@
+D:\Programming\MIS Operation Go\MIS Project\MIS Collection Project 1\Collection\Collection\bin\Debug\Collection.exe.config
+D:\Programming\MIS Operation Go\MIS Project\MIS Collection Project 1\Collection\Collection\bin\Debug\Collection.exe
+D:\Programming\MIS Operation Go\MIS Project\MIS Collection Project 1\Collection\Collection\bin\Debug\Collection.pdb
+D:\Programming\MIS Operation Go\MIS Project\MIS Collection Project 1\Collection\Collection\bin\Debug\Collection.xml
+D:\Programming\MIS Operation Go\MIS Project\MIS Collection Project 1\Collection\Collection\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Programming\MIS Operation Go\MIS Project\MIS Collection Project 1\Collection\Collection\bin\Debug\MaterialSkin.dll
+D:\Programming\MIS Operation Go\MIS Project\MIS Collection Project 1\Collection\Collection\bin\Debug\MetroFramework.Design.dll
+D:\Programming\MIS Operation Go\MIS Project\MIS Collection Project 1\Collection\Collection\bin\Debug\MetroFramework.dll
+D:\Programming\MIS Operation Go\MIS Project\MIS Collection Project 1\Collection\Collection\bin\Debug\MetroFramework.Fonts.dll
+D:\Programming\MIS Operation Go\MIS Project\MIS Collection Project 1\Collection\Collection\obj\Debug\Collection.vbprojResolveAssemblyReference.cache
+D:\Programming\MIS Operation Go\MIS Project\MIS Collection Project 1\Collection\Collection\obj\Debug\Collection.Collection_Form.resources
+D:\Programming\MIS Operation Go\MIS Project\MIS Collection Project 1\Collection\Collection\obj\Debug\Collection.Resources.resources
+D:\Programming\MIS Operation Go\MIS Project\MIS Collection Project 1\Collection\Collection\obj\Debug\Collection.vbproj.GenerateResource.Cache
+D:\Programming\MIS Operation Go\MIS Project\MIS Collection Project 1\Collection\Collection\obj\Debug\Collection.vbproj.CoreCompileInputs.cache
+D:\Programming\MIS Operation Go\MIS Project\MIS Collection Project 1\Collection\Collection\obj\Debug\Collection.exe
+D:\Programming\MIS Operation Go\MIS Project\MIS Collection Project 1\Collection\Collection\obj\Debug\Collection.xml
+D:\Programming\MIS Operation Go\MIS Project\MIS Collection Project 1\Collection\Collection\obj\Debug\Collection.pdb

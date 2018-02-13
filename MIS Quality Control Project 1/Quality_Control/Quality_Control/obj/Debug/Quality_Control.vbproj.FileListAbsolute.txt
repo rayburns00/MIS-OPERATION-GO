@@ -1,0 +1,17 @@
+D:\Programming\MIS Operation Go\MIS Project\MIS Quality Control Project 1\Quality_Control\Quality_Control\bin\Debug\Quality_Control.exe.config
+D:\Programming\MIS Operation Go\MIS Project\MIS Quality Control Project 1\Quality_Control\Quality_Control\bin\Debug\Quality_Control.exe
+D:\Programming\MIS Operation Go\MIS Project\MIS Quality Control Project 1\Quality_Control\Quality_Control\bin\Debug\Quality_Control.pdb
+D:\Programming\MIS Operation Go\MIS Project\MIS Quality Control Project 1\Quality_Control\Quality_Control\bin\Debug\Quality_Control.xml
+D:\Programming\MIS Operation Go\MIS Project\MIS Quality Control Project 1\Quality_Control\Quality_Control\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Programming\MIS Operation Go\MIS Project\MIS Quality Control Project 1\Quality_Control\Quality_Control\bin\Debug\MaterialSkin.dll
+D:\Programming\MIS Operation Go\MIS Project\MIS Quality Control Project 1\Quality_Control\Quality_Control\bin\Debug\MetroFramework.Design.dll
+D:\Programming\MIS Operation Go\MIS Project\MIS Quality Control Project 1\Quality_Control\Quality_Control\bin\Debug\MetroFramework.dll
+D:\Programming\MIS Operation Go\MIS Project\MIS Quality Control Project 1\Quality_Control\Quality_Control\bin\Debug\MetroFramework.Fonts.dll
+D:\Programming\MIS Operation Go\MIS Project\MIS Quality Control Project 1\Quality_Control\Quality_Control\obj\Debug\Quality_Control.Resources.resources
+D:\Programming\MIS Operation Go\MIS Project\MIS Quality Control Project 1\Quality_Control\Quality_Control\obj\Debug\Quality_Control.Quality_Control.resources
+D:\Programming\MIS Operation Go\MIS Project\MIS Quality Control Project 1\Quality_Control\Quality_Control\obj\Debug\Quality_Control.vbproj.GenerateResource.Cache
+D:\Programming\MIS Operation Go\MIS Project\MIS Quality Control Project 1\Quality_Control\Quality_Control\obj\Debug\Quality_Control.vbproj.CoreCompileInputs.cache
+D:\Programming\MIS Operation Go\MIS Project\MIS Quality Control Project 1\Quality_Control\Quality_Control\obj\Debug\Quality_Control.exe
+D:\Programming\MIS Operation Go\MIS Project\MIS Quality Control Project 1\Quality_Control\Quality_Control\obj\Debug\Quality_Control.xml
+D:\Programming\MIS Operation Go\MIS Project\MIS Quality Control Project 1\Quality_Control\Quality_Control\obj\Debug\Quality_Control.pdb
+D:\Programming\MIS Operation Go\MIS Project\MIS Quality Control Project 1\Quality_Control\Quality_Control\obj\Debug\Quality_Control.vbprojResolveAssemblyReference.cache

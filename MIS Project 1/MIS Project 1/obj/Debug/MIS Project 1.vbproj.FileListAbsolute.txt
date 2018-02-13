@@ -1,0 +1,17 @@
+D:\Programming\MIS Operation Go\MIS Project\MIS Project 1\MIS Project 1\bin\Debug\MIS Project 1.exe.config
+D:\Programming\MIS Operation Go\MIS Project\MIS Project 1\MIS Project 1\bin\Debug\MIS Project 1.exe
+D:\Programming\MIS Operation Go\MIS Project\MIS Project 1\MIS Project 1\bin\Debug\MIS Project 1.pdb
+D:\Programming\MIS Operation Go\MIS Project\MIS Project 1\MIS Project 1\bin\Debug\MIS Project 1.xml
+D:\Programming\MIS Operation Go\MIS Project\MIS Project 1\MIS Project 1\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Programming\MIS Operation Go\MIS Project\MIS Project 1\MIS Project 1\bin\Debug\MetroFramework.Design.dll
+D:\Programming\MIS Operation Go\MIS Project\MIS Project 1\MIS Project 1\bin\Debug\MetroFramework.Fonts.dll
+D:\Programming\MIS Operation Go\MIS Project\MIS Project 1\MIS Project 1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Programming\MIS Operation Go\MIS Project\MIS Project 1\MIS Project 1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Programming\MIS Operation Go\MIS Project\MIS Project 1\MIS Project 1\obj\Debug\MIS_Project_1.Main_Form.resources
+D:\Programming\MIS Operation Go\MIS Project\MIS Project 1\MIS Project 1\obj\Debug\MIS_Project_1.Resources.resources
+D:\Programming\MIS Operation Go\MIS Project\MIS Project 1\MIS Project 1\obj\Debug\MIS Project 1.vbproj.GenerateResource.Cache
+D:\Programming\MIS Operation Go\MIS Project\MIS Project 1\MIS Project 1\obj\Debug\MIS Project 1.vbproj.CoreCompileInputs.cache
+D:\Programming\MIS Operation Go\MIS Project\MIS Project 1\MIS Project 1\obj\Debug\MIS Project 1.exe
+D:\Programming\MIS Operation Go\MIS Project\MIS Project 1\MIS Project 1\obj\Debug\MIS Project 1.xml
+D:\Programming\MIS Operation Go\MIS Project\MIS Project 1\MIS Project 1\obj\Debug\MIS Project 1.pdb
+D:\Programming\MIS Operation Go\MIS Project\MIS Project 1\MIS Project 1\obj\Debug\MIS Project 1.vbprojResolveAssemblyReference.cache
